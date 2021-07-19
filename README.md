@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ARSingh71
-- 👀 I’m interested in development
+- 👀 I’m interested full stack development
 - 🌱 I’m currently learning ReactJS
 - 💞️ I’m looking to collaborate on ReactJS
 - 📫 How to reach me tech.arsingh7@gmail.com
